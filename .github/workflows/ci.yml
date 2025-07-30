@@ -18,5 +18,8 @@ jobs:
         with:
           node-version: 18
 
-      - name: Checking node version
-        run: node --version
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Run my tests
+        run: npm run test
