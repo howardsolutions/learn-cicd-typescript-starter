@@ -1,6 +1,7 @@
 # learn-cicd-typescript-starter (Notely)
 
-![Badge for Tests](https://github.com/howardsolutions/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+![Badge for CI](https://github.com/howardsolutions/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+![Badge for CD](https://github.com/howardsolutions/learn-cicd-typescript-starter/actions/workflows/cd.yml/badge.svg)
 
 ## Local Development
 
